@@ -1,0 +1,22 @@
+{
+  "name": "Taskify",
+  "short_name": "Taskify",
+  "start_url": "https://app.ezajhossain.in/?source=pwa",
+  "scope": "https://app.ezajhossain.in/",
+  "display": "standalone",
+  "background_color": "#0a1330",
+  "theme_color": "#0a1330",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/eezajhossain/eonline-pwa@main/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/eezajhossain/eonline-pwa@main/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
